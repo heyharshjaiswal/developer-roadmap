@@ -11,3 +11,4 @@ It is mostly utilized for REST/APIs and only provides a limited scope of a user'
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2'>DigitalOcean - An Introduction to OAuth 2</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=t4-416mg6iU'>What is OAuth really all about</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=CPbvxxslDTU'>OAuth 2.0: An Overview</BadgeLink>
+<BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=996OiexHze0&list=PLwocSfQZVcg4_7Vm9lEL-Y8S1GrylAzYD&index=8'>OAuth 2.0 and OpenID Connect (in plain English)</BadgeLink>
